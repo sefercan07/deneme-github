@@ -15,3 +15,4 @@ git githubpdjgpsdg
 
 Sefer deneme branch
 Sefer denemedik mi master branch
+acaba degişiklik yapmadıjm diye mi
